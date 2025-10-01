@@ -77,7 +77,7 @@ public class DataTypes {
 		System.out.println("Number of employees in a company:" +NoOfEmployees);
 		
 		
-		//16.Time of an event: 2:30 PM
+	
 		
 		
 		//17.Name of a country: "United States"
