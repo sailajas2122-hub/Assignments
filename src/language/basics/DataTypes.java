@@ -53,7 +53,7 @@ public class DataTypes {
 		
 		
 		//11.Number of followers on a social media platform: 1,000,000
-		int mediaplatform = 1000000;
+		String mediaplatform = "1,000,000";
 		System.out.println("Social media platform:"+mediaplatform);
 		
 		
